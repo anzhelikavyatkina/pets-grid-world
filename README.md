@@ -165,9 +165,11 @@ This improves readability, reduces boilerplate code, and supports reusable funct
 
 ## Project Structure (Overview)
 
+```text
 src/
 ├─ game/ # core gameplay logic
 ├─ weather/ # weather system
 ├─ map/ # map generation
 ├─ ui/ # rendering & boards
 └─ Main.java
+```
