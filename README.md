@@ -1,6 +1,6 @@
 # Pets in the Grid World
 
-A Java-based grid simulation game demonstrating real-time data streaming, modular architecture, and advanced design patterns in an interactive environment.
+A Java-based grid simulation game featuring heuristic-driven bot behaviour, real-time weather streaming, and a modular architecture using Observer, State, and Strategy design patterns.
 
 ## Tech Stack
 
@@ -56,7 +56,7 @@ Be the first to collect **3 matching food items** while maintaining curiosity.
 ## Key Features
 
 - Procedurally generated grid world
-- AI-controlled competing agents
+- Heuristic-based bot movement competing with the player
 - Real-time weather streaming (mock server)
 - Dynamic weather effects on gameplay
 - Forecast system with danger-zone detection
